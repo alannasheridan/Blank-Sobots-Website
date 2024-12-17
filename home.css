@@ -33,7 +33,7 @@ h1{
     margin-left: 5%;
 }
 .about{
-    background-color:rgb(171, 40, 40);
+    /* background-color:rgb(171, 40, 40); */
     border-radius: 5px;
     padding: 10px;
     color: black;
@@ -48,7 +48,7 @@ h1{
     color:white;
 }
 .more{
-    background-color:rgb(171, 40, 40);
+    /* background-color:rgb(171, 40, 40); */
     border-radius: 5px;
     padding: 10px;
     color: black;
